@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "C++ comments are readable. It does prevent us from execution while testing alternative codes.";
+  return 0;
+}
