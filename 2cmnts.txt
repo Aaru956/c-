@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  /* Awhhh thiks is c++ program and i am learning it trying to code on my own idk how many days will it take me to learn it but i will try to learn it */  
+  cout << "Basic c++ code";// this is supposed to have both single and multi comments option
+  return 0;
+}
