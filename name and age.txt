@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string> // For string data type
+using namespace std;
+
+int main() {
+    string name = "Aryan koirala"; 
+    int age = 18;         
+
+    cout << "My name is " << name << "." << endl;
+    cout << "I am " << age << " years old." << endl;
+
+    return 0;
+}

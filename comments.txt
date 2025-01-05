@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  // The main is a function that executes the codes inside the {}
+  cout << "Hello World!";
+  return 0;
+}
