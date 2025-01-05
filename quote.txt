@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "There Is No Such Thing As Fair or Unfair in Battle. There Is Only Victory.";
+  return 0;
+}
